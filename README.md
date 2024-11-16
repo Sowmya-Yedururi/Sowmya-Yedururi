@@ -2,7 +2,7 @@
 - I’m interested in Data Analytics, Business Intelligence and Visualization Tools.
 - I’m currently learning advanced SQL techniques and Python for data analysis.
 - I’m looking to collaborate on data visualization projects or real-world datasets analysis.
-- 📫 How to reach me https://www.linkedin.com/in/sowmya-yedururi[LinkedIn] or yedururisowmya2k2@gmail.com.
+- 📫 How to reach me https://www.linkedin.com/in/sowmya-yedururi [LinkedIn] or yedururisowmya2k2@gmail.com.
 - I transitioned from Electrical background to a data-driven world and absolutely love uncovering insights through data.
 
 <!---
